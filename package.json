@@ -1,0 +1,19 @@
+{
+  "name": "@allex-24/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[3~\u001b[3~\u001b[dist/index.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allex-24/ajs.git"
+  },
+  "author": "Allex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allex-24/ajs/issues"
+  },
+  "homepage": "https://github.com/Allex-24/ajs#readme"
+}
